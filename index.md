@@ -9,7 +9,7 @@ nav_order: 1
 
 Nous sommes **4 étudiants ingénieurs à l'ENSAM**, Etienne, Simon, Lucien et Nicolas. Nous venons d'installer la **troisième version du système** dans **3 ruchers** différents. Nous travaillons actuellement avec une trentaine de membre de l'**ADANA et l'ADAOC** pour tester et fiabiliser la méthode. 
 
-Nous envisageons d'installer 20 systèmes suplémentaires lors de la saison 2026 pour les tests de la version 4. Une fois testée elle sera commercialisée pour la saison 2027. 
+Nous envisageons d'installer 20 systèmes suplémentaires lors de la saison 2026 pour les tests de la version 4. 
 
 
 ## Notre démarche
