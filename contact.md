@@ -7,7 +7,7 @@ nav_order: 3
 
 Vous avez des questions, suggestions ou remarques ? Contactez-nous :
 
-- 📧 Email : [fecondation.claidelune@gmail.com](mailto:fecondation.claidelune@gmail.com)
+- 📧 Email : [fecondation.clairdelune@gmail.com](mailto:fecondation.clairdelune@gmail.com)
 - 🧑 Auteur principal : [Etienne Ballesta, Simon Bijaoui, Lucien Bourlon, Nicolas Milly]
 - 🌐 Projet hébergé sur GitHub : [https://github.com/lucien-bourlon/ADFCL](https://github.com/lucien-bourlon/ADFCL)
 
